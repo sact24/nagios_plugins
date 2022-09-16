@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch bi
+mkdir -p /home/ubuntu/ lopa
